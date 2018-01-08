@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 
-	"go4.org/sort"
 	"gopkg.in/yaml.v2"
 )
 
